@@ -1,3 +1,11 @@
+/*
+ a) Create an abstract class order having members id,description.Create two
+subclasses Purchase Order and Sales Order having members customer name
+and Vendor name respectively.Define methods accept and display in all cases.
+Create 3 objects each of Purchase Order and Sales Order and accept and display
+details.
+ */
+
 abstract class Order {
     public int id;
     public String description;
