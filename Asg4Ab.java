@@ -1,3 +1,9 @@
+/*
+ b) Write a program to read a text file sample.txt and display the contents of a file in
+reverse order and also original contents change the case (display in upper case).
+ */
+
+
 import java.io.FileReader;
 import java.io.IOException;
 import java.io.BufferedReader;
