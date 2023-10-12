@@ -1,8 +1,7 @@
 /*
-b) Define Student class(roll_no, name, percentage) to create n objects of the
-Lab Assignments Student class. Accept details from the user for each object. Define a static
-method sortStudent which sorts the array on the basis of percentage.
- */
+c) Write a java program to accept 5 numbers using command line arguments sort and
+display them. 
+*/
 
 import java.util.Arrays;
 
