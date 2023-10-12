@@ -1,3 +1,12 @@
+/*
+c) Write a menu driven program to perform the following operations on
+multidimensional array ie matrix :
+    i. Addition
+    ii. Multiplication
+    iii. Transpose of any matrix.
+    iv. Exit 
+*/
+
 import java.util.Scanner;
 
 class MatOperation {
