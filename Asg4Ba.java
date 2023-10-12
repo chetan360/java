@@ -1,3 +1,11 @@
+/*
+ a) Write a program to read book information (bookid, bookname, bookprice, bookqty) in
+file book.dat. Write a menu driven program to perform the following operations
+using Random access file:
+    i. Search for a specific book by name.
+   ii. Display all book and total cost
+ */
+
 import java.io.RandomAccessFile;
 import java.io.IOException;
 import java.util.Scanner;
