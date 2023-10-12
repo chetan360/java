@@ -1,3 +1,8 @@
+/*
+a) Write a program to accept n names of country and display them in descending
+order.
+*/
+
 import java.util.Scanner;
 import java.util.Arrays;
 
