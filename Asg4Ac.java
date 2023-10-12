@@ -1,3 +1,10 @@
+/*
+ c) Accept the names of two files and copy the contents of the first to the second.
+First file having Book name and Author name in file. Second file having the contents
+of First file and also add the comment ‘end of file’ at the end.
+ */
+
+
 import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
