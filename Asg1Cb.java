@@ -1,3 +1,11 @@
+/*
+b) Write a menu driven program to perform the following operations on 2D array:
+    i. Sum of diagonal elements
+    ii. Sum of upper diagonal elements
+    iii. Sum of lower diagonal elements
+    iv. Exit
+ */
+
 import java.util.Scanner;
 
 class MatOperation2 {
