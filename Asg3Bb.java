@@ -1,4 +1,21 @@
-// Serializable is a marker interface use for (mark, clone)
+/*
+ b) Write a program to using marker interface create a class product(product_id,
+product_name, product_cost, product_quantity) define a default and parameterized
+constructor. Create objects of class product and display the contents of each object
+and Also display the object count.
+ */
+
+/*
+Marker Interface :
+    An interface that does not contain methods, fields, and constants is known as marker
+interface. In other words, an empty interface is known as marker interface or tag interface. It
+delivers the run-time type information about an object. It is the reason that the JVM and
+compiler have additional information about an object.
+    The Serializable and Cloneable interfaces are the example of marker interface. In short, it
+indicates a signal or command to the JVM. The declaration of marker interface is the same as
+interface in Java but the interface must be empty.
+ */
+
 import java.io.Serializable;
 
 class Product implements Serializable {
