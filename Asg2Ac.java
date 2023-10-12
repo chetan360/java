@@ -1,3 +1,9 @@
+/*
+b) Define Student class(roll_no, name, percentage) to create n objects of the
+Lab Assignments Student class. Accept details from the user for each object. Define a static
+method sortStudent which sorts the array on the basis of percentage.
+ */
+
 import java.util.Arrays;
 
 public class Asg2Ac {
