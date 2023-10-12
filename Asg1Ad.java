@@ -1,3 +1,5 @@
+// d) Write a program to accept the array element and display in reverse order.
+
 import java.util.Scanner;
 
 public class Asg1Ad {
