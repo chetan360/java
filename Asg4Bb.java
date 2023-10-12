@@ -1,3 +1,10 @@
+/*
+ b) Define class EmailId with members ,username and password. Define default and
+parameterized constructors. Accept values from the command line Throw user
+defined exceptions – InvalidUsernameException or InvalidPasswordException if
+the username and password are invalid.
+ */
+
 class Emailld {
     String username;
     String pass;
