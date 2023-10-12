@@ -1,3 +1,11 @@
+/*
+ c) Write a menu driven program to perform the following operations
+    i. Calculate the volume of cylinder. (hint : Volume: π × r² × h)
+    ii. Find the factorial of given number.
+    iii. Check the number is Armstrong or not.
+    iv. Exit
+ */
+
 import java.util.Scanner;
 
 public class Asg1Ac {
