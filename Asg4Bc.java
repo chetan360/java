@@ -1,3 +1,10 @@
+/*
+ c) Define a class MyDate (day, month, year) with methods to accept and display a
+MyDate object. Accept date as dd, mm, yyyy. Throw user defined exception
+InvalidDateException if the date is invalid.
+Examples of invalid dates : 03 15 2019, 31 6 2000, 29 2 2021
+*/
+
 class InvalidDateException extends Exception {
     InvalidDateException(String message) {
         super(message);
