@@ -1,3 +1,8 @@
+/*
+ b) Write a program to calculate perimeter and area of rectangle.
+(hint : area = length * breadth , perimeter=2*(length+breadth))
+*/
+
 import java.util.Scanner;
 
 public class Asg1Ab {
