@@ -1,3 +1,20 @@
+/*
+a) Write a java program to display the system date and time in various formats shown
+below :
+
+    Current date is : 31/08/2021
+    Current date is : 08-31-2021
+    Current date is : Tuesday August 31 2021
+    Current date and time is : Fri August 31 15:25:59 IST 2021
+    Current date and time is : 31/08/21 15:25:59 PM +0530
+    Current time is : 15:25:59
+    Current week of year is : 35
+    Current week of month : 5
+    Current day of the year is : 243
+    Note: Use java.util.Date and java.text.SimpleDateFormat class
+
+ */
+
 import java.util.Date;
 import java.text.SimpleDateFormat;
 
